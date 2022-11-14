@@ -1,5 +1,5 @@
 -- buat database fakultas
-CREATE DATABASE seal_fakultas;
+CREATE DATABASE fakultas;
 
 -- buat table jurusan
 CREATE TABLE jurusan (
